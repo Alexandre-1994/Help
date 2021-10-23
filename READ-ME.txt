@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   =>  Template Name    : HELPZ - Free Charity Website Template
 
   =>  Template Link    : https://htmlcodex.com/free-charity-website-template
@@ -8,4 +9,16 @@
 
   =>  Author Website   : https://htmlcodex.com
 
+=======
+  =>  Template Name    : HELPZ - Free Charity Website Template
+
+  =>  Template Link    : https://htmlcodex.com/free-charity-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://htmlcodex.com
+
+>>>>>>> 65c0de17ccf50acbda5d3aa39ff8769a6918e03d
   =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
